@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 메타버스 아카데미 2기
-- 🌱 자바 배우는중...
+- 🌱 자바 배우는중....
 
 <img src="https://github-readme-stats.vercel.app/api?username=hodin030&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
